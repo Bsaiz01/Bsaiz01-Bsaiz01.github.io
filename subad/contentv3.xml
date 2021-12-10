@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="4" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="Bienvenida y objetivos del curso "></unicode>
+  <unicode value="Las subordinadas adverbiales propias a la palestra"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addPagination"></string>
@@ -647,7 +647,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="232"></int>
+                     <int value="233"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -661,7 +661,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="16_110_2.1"></unicode>
+                   <unicode value="16_110_2.2"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -672,7 +672,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_(147).png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\bsaiz\\appdata\\local\\temp\\tmp6gr3lq\\Captura_de_pantalla_(147).png"></string>
+                     <string value="c:\\users\\bsaiz\\appdata\\local\\temp\\tmpemkbof\\Captura_de_pantalla_(147).png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="42fcfd0d9fd4e727ede724535260c6cf"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -701,7 +701,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="2"></int>
+              <int value="3"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -2266,7 +2266,7 @@ for the other options."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="27"></reference>
+  <reference key="3"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2297,7 +2297,7 @@ for the other options."></unicode>
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="Bienvenida y objetivos del curso "></unicode>
+    <unicode value="Las subordinadas adverbiales propias a la palestra"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -2583,7 +2583,7 @@ for the other options."></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Bienvenida y objetivos del curso "></string>
+           <string value="Las subordinadas adverbiales propias a la palestra"></string>
           </dictionary>
          </instance>
         </list>
@@ -3144,7 +3144,7 @@ for the other options."></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Bienvenida y objetivos del curso "></string>
+           <string value="Las subordinadas adverbiales propias a la palestra"></string>
           </dictionary>
          </instance>
         </list>
